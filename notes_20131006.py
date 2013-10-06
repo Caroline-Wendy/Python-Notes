@@ -24,7 +24,3 @@ print(movies)
 #reverse颠倒顺序
 movies.reverse()
 print(movies)
-
-#打开文件
-sometext = open("thefile.txt", "w")
-print >>movies, sometext
